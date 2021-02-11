@@ -1,0 +1,7 @@
+"is a" relationship - The subclass is a superclass
+eg: Manager extends Employee -> Manager is an Employee
+
+"has a" relationship - The class uses another class inside
+eg Employee Assistant = new A.. -> Manager has an Employee
+
+

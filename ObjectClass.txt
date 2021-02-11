@@ -1,0 +1,5 @@
+Override the following methods:
+
+String toString()
+boolean equals(Object var)
+

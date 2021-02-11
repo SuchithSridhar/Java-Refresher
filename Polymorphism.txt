@@ -1,0 +1,7 @@
+Many shapes
+
+- The same name to refer to different methods
+
+In java 2 forms of polymorphism:
+- Method overloading
+- Method overridding
