@@ -14,7 +14,7 @@ class FileManager{
 	String read(){
 		String data = "";
 		try{
-			fr = Scanner(fr);
+			fr = Scanner(file);
 			while(fr.hasNextLine()){
 				data += fr.nextLine();
 			}
